@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu mirada me quema, rompiendo la calma
+> Dejando el perfume grabado en mi alma
+> La pista se apaga, prendemos el club
+> Nadie tiene el brillo que tienes tú
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
