@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-de-pasion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Piel de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-pasion/) |
+| **Get License** | [Commercial Licensing for Piel de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-pasion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `59092e6281e9dcaad276a3705569be7105b8d9e6d1f4a4f01f5149eb5d9c15a7` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

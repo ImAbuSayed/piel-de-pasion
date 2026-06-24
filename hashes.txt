@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Piel de pasión
+
+This log tracks the cryptographic history and versioning for the song **Piel de pasión** (piel-de-pasion).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T06:41:34.926667 | `v1` | `59092e6281e9dcaad276a3705569be7105b8d9e6d1f4a4f01f5149eb5d9c15a7` | `35d9d3bb12d44c76d03679b578d0eb1e82864bf09cf72de774262366da7358f8` | `2026-06-24_piel-de-pasion-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
